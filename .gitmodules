@@ -1,0 +1,3 @@
+[submodule "vendor/open-instinct"]
+	path = vendor/open-instinct
+	url = https://github.com/mariagorskikh/open-instinct
